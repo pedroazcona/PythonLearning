@@ -1,0 +1,5 @@
+2018-01-10 12:19:12,935 - simple_example - DEBUG - debug message
+2018-01-10 12:19:12,935 - simple_example - INFO - info message
+2018-01-10 12:19:12,935 - simple_example - WARNING - warn message
+2018-01-10 12:19:12,935 - simple_example - ERROR - error message
+2018-01-10 12:19:12,950 - simple_example - CRITICAL - critical message
